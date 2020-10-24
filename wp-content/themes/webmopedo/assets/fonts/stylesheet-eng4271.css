@@ -1,0 +1,71 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3708677, 2019-01-31T04:43:45-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: UniNeueBold by Fontfabric
+ * URL: https://www.myfonts.com/fonts/font-fabric/uni-neue/bold/
+ * Copyright: Copyright (c) 2017 by Fontfabric LLC. All rights reserved.
+ * 
+ * Webfont: UniNeueRegular by Fontfabric
+ * URL: https://www.myfonts.com/fonts/font-fabric/uni-neue/regular/
+ * Copyright: Copyright &#x00A9; 2016 by FontfabricLLC. All rights reserved.
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3708677
+ * Licensed pageviews: 4,000,000
+ * 
+ * © 2019 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("http://hello.myfonts.net/count/389705");
+
+  
+@font-face {font-family: 'UniNeueBold';font-display: swap;src: url('webfonts/389705_0_0.eot');src: url('webfonts/389705_0_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/389705_0_0.woff2') format('woff2'),url('webfonts/389705_0_0.woff') format('woff'),url('webfonts/389705_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'UniNeueRegular';font-display: swap;src: url('webfonts/389705_1_0.eot');src: url('webfonts/389705_1_0d41d.eot?#iefix') format('embedded-opentype'),url('webfonts/389705_1_0.woff2') format('woff2'),url('webfonts/389705_1_0.woff') format('woff'),url('webfonts/389705_1_0.ttf') format('truetype');}
+
+
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-display: fallback;
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Light'), local('Roboto-Light'), url(https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2) format('woff2');
+}
+
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-display: fallback;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2) format('woff2');
+}
+
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-display: fallback;
+  font-style: normal;
+  font-weight: 500;
+  src: local('Roboto Medium'), local('Roboto-Medium'), url(https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2) format('woff2');
+}
+
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-display: fallback;
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2) format('woff2');
+}
